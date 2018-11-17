@@ -573,8 +573,7 @@
 
             function starButtonClicked() {
                 if (document.getElementById("star-id-input").value) {
-                    starNotary.tokenIdToStarinfo(
-                        Number(document.getElementById("star-id-input").value), function(error, result) {
+                    starNotary.tokenIdToStarInfo(Number(document.getElementById("star-id-input").value), (error, result) => {
                             if (error) {
                                 console.log(error);
                             } else {

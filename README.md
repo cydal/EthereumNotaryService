@@ -25,10 +25,9 @@ Saving artifacts...
 
 #### Contract Address
 
-0x2100436CF1074681b49135b6b324DBcf5eC27c2B
+0x68a10fc24239ff73a5cf33326a182bf4a662f172cbacef348b9aaa6dc272328f
 
-https://rinkeby.etherscan.io/address/0x2100436cf1074681b49135b6b324dbcf5ec27c2b
-
+https://rinkeby.etherscan.io/tx/0x68a10fc24239ff73a5cf33326a182bf4a662f172cbacef348b9aaa6dc272328f
 
 
 
@@ -36,14 +35,23 @@ https://rinkeby.etherscan.io/address/0x2100436cf1074681b49135b6b324dbcf5ec27c2b
 #### Contract Hash
 
 
-0x9be96dd6b60425481246cb61c555b5957501e0e00c00a18cbb50c7826af53336
 
-https://rinkeby.etherscan.io/tx/0x9be96dd6b60425481246cb61c555b5957501e0e00c00a18cbb50c7826af53336
-
+0x68a10fc24239ff73a5cf33326a182bf4a662f172cbacef348b9aaa6dc272328f
 
 
 
-#### Tx Hash
+#### createStar
 
-0x317d5316222448381784c65696d6fe76c1ea3f4f32c6ea6f554254d39792bcd3
-https://rinkeby.etherscan.io/tx/0x317d5316222448381784c65696d6fe76c1ea3f4f32c6ea6f554254d39792bcd3
+0x890adca4805c7c6c55fd0972d75de7a273634e80ddf0c563a292843148c27b88
+
+
+https://rinkeby.etherscan.io/tx/0x890adca4805c7c6c55fd0972d75de7a273634e80ddf0c563a292843148c27b88
+
+
+
+#### putStarUpForSale
+
+0x3fe1b5711cbc79fad845b67ec8a4b0040de0ee6ecfa59e7afd8860c9a2b99663
+
+
+https://rinkeby.etherscan.io/tx/0x3fe1b5711cbc79fad845b67ec8a4b0040de0ee6ecfa59e7afd8860c9a2b99663
